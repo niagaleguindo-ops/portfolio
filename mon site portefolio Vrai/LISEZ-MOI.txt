@@ -1,0 +1,11 @@
+Portfolio de Niagalé Guindo - site statique (HTML, CSS, images)
+
+Contenu :
+- index.html : la page
+- style.css : la mise en forme
+- script.js : l'agrandissement des images au clic
+- images/ : les 5 images du portfolio
+
+Pour voir le site : double-cliquer sur index.html.
+Pour le mettre en ligne : envoyer tout le contenu du dossier (en gardant le dossier images/) à la racine de votre hébergement, puis relier votre nom de domaine à cet hébergement.
+Les polices viennent de Google Fonts : une connexion internet est nécessaire pour les afficher telles que conçues.
