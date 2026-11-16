@@ -379,3 +379,12 @@ dialog{border:0;padding:12px;background:#fff;border-radius:14px;max-width:min(96
 @media(max-width:820px){.dom{grid-template-columns:1fr 1fr}.dom li:last-child:nth-child(odd){grid-column:1/-1}}
 .role a{color:inherit;text-decoration:underline;text-decoration-color:var(--hero-line);text-underline-offset:5px}
 .role a:hover{text-decoration-color:var(--herosky)}
+
+/* Icônes SVG (remplacent les emojis) */
+.svgi{width:1em;height:1em;display:block;flex:none;fill:none;stroke:currentColor;stroke-width:2;stroke-linecap:round;stroke-linejoin:round}
+.mi li>span,.mchips li span,.dom span,.sh .ic{color:var(--c,var(--sky))}
+.mchips svg{width:18px;height:18px}
+.dom li:nth-child(2) span{color:var(--amber)}.dom li:nth-child(3) span{color:var(--green)}.dom li:nth-child(4) span{color:var(--ink)}
+.apt span{color:var(--amber)}
+.sch .ic,.mh .ic,.tc h4 span{color:var(--c)}
+.real .card .ic{color:var(--amber)}.real .card:nth-child(2) .ic{color:var(--green)}.real .card:nth-child(3) .ic{color:var(--sky)}
